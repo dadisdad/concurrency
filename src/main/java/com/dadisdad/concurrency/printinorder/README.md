@@ -41,3 +41,6 @@ public class Foo {
 尽管输入中的数字似乎暗示了顺序，但是我们并不保证线程在操作系统中的调度顺序。
 
 你看到的输入格式主要是为了确保测试的全面性。
+
+来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/print-foobar-alternately
